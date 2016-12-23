@@ -1,33 +1,25 @@
 # ASERT
 ASERT is a new layout for your QWERTY keyboard. It is intended for people which have been typing in QWERTY keyboards for years and wants to speed it up.
 
-# What is ASERT
+An easy learning curve, and the fact that you already know the distribution, will let you type on ASERT within minutes.
 
-*TL;DR, see below.*
-*Disclaimer: Not native english speaker, sorry for the mistakes.*
+# Why ASERT
 
-Hi there!. I've touch typing more than 20 years, and during all those years I was thinking of making the leap of faith and changing my keyboard layout to Dvorak, and more recently to Colemak.
+QWERTY is the default layout of nearly every keyboard available, and, while is not even close of being perfect, for most of people is the only layout they ever knew. Over the years, you have learned a keyboard layout that has been reinforced in your brain by repetitions.
 
-Finally for a couple of months I spent a few minutes every day practicing Colemak while still using Querty by default at work, and  **I have failed miserably** . 
+Other layouts like Dvorak or Colemak, which improved speed, accuracy and ergonomics, failed to convince the user to re-learn again to type day by day. **This cannot be undone easily.** This fact has been ignored by all who have wanted to implement a new keyboard, forgetting that the user has had to learn over the years to write in a certain way.
 
-Honestly, I wish I liked Colemak, but I have realized that I hate it. I mean, I really do not hate it, but I think it's not for me, because I am human, and by nature I have a rejection of change.
+Using other alternative keyboards, each time you try to write a letter, your muscle memory will force you to write it as you did before, and you'll have to repress your instinct, and recalibrate the chain of movements that your brain automatically performs to write that letter. This is frustrating and stressful, especially if you've spent years writing on a QWERTY keyboard, and **it's the main reason for abandoning alternative keyboard layouts.**
 
-This has made me think about why most QWERTY users never changed to Dvorak, no one wanted to unlearn what they had learned and mastered. And why Colemak has had a partial success, because it adapts QUERTY instead of reinventing it.
-
-BUT, I realized Colemak's defenders lie partly, or cheat, by saying Colemak respects what you learned in Qwerty. 
-
-Let's take for example the case of the [E], which turns out to be the most used key of the keyboard.
-In QWERTY the middle finger of the left hand is used to reach this key in the upper row , and Colemak is the right hand and the middle row. All changes of position have been made arbitrarily, and although they are scarce, they are fundamental.
-
-Those who have tested Colemak will have experienced my frustration, searching for letters through the keyboard, when it turns out they are on the opposite side.
-
-Of course, I'm aware that it's my fault, as my muscle memory is hard to change, like most proffesionals out there. As I said before, The human being Resistance to adoption by design. In fact, according to [Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#Resistance_to_adoption):
+The human being Resistance to adoption by design. In fact, according to [Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#Resistance_to_adoption):
 
 >Although the Dvorak layout is the only other keyboard layout registered with ANSI and is provided with all major operating systems, attempts to convert universally to the Dvorak layout have not succeeded. The failure of the Dvorak layout to displace the QWERTY layout has been the subject of some studies.
 >
 >A discussion of the Dvorak layout is sometimes used as an exercise by management consultants to illustrate the difficulties of change. The Dvorak layout is often used in economics textbooks as a standard example of network effects, though this approach has been criticized.
 
-So, after some researching, and being inspired by Colemak philosophy, I realized that with a minor changes QWERTY could be an actually great layout.
+**ASERT** makes a diferent approach. We assume that the customer is always right. Instead of rearrange the whole keyboard layout, only 14 have been changed. These keys have been changed in pairs, one by another. In addition, those keys that have been switched vertically, and are clicked by the same finger as before. If you used to press the letter [E] with your middle finger of the left hand, it will remain so, but in a different row.
+
+So, after some researching, and being inspired by Colemak and Workman layouts philosophy, I realized that with a minor changes QWERTY could be an actually great layout.
 
 Facts:
 
