@@ -7,17 +7,19 @@ An easy learning curve, and the fact that you already know the distribution, wil
 
 QWERTY is the default layout of nearly every keyboard available, and, while is not even close of being perfect, for most of people is the only layout they ever knew. Over the years, you have learned a keyboard layout that has been reinforced in your brain by repetitions.
 
-Other layouts like Dvorak or Colemak, which improved speed, accuracy and ergonomics, failed to convince the user to re-learn again to type day by day. **This cannot be undone easily.** This fact has been ignored by all who have wanted to implement a new keyboard, forgetting that the user has had to learn over the years to write in a certain way.
+Other layouts like Dvorak or Colemak, which improved speed, accuracy and ergonomics, failed to convince the user to re-learn again to type day by day. **This cannot be undone easily.** This fact has been ignored by all who wanted to implement a new keyboard layout, forgetting the users which had to learn over the years to write in a certain way.
 
-Using other alternative keyboards, each time you try to write a letter, your muscle memory will force you to write it as you did before, and you'll have to repress your instinct, and recalibrate the chain of movements that your brain automatically performs to write that letter. This is frustrating and stressful, especially if you've spent years writing on a QWERTY keyboard, and **it's the main reason for abandoning alternative keyboard layouts.**
+Using other alternative keyboards, each time you try to write a letter, your muscle memory will force you to write it as you did before, and you'll have to repress your instinct and recalibrate the chain of movements that your brain automatically performs to write that letter. This is frustrating and stressful, especially if you've spent years writing on a QWERTY keyboard, and **it's the main reason for abandoning alternative keyboard layouts.**
 
-The human being Resistance to adoption by design. In fact, according to [Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#Resistance_to_adoption):
+The human being has "Resistance to adoption" feature by design. In fact, according to [Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard#Resistance_to_adoption):
 
 >Although the Dvorak layout is the only other keyboard layout registered with ANSI and is provided with all major operating systems, attempts to convert universally to the Dvorak layout have not succeeded. The failure of the Dvorak layout to displace the QWERTY layout has been the subject of some studies.
 >
 >A discussion of the Dvorak layout is sometimes used as an exercise by management consultants to illustrate the difficulties of change. The Dvorak layout is often used in economics textbooks as a standard example of network effects, though this approach has been criticized.
 
-**ASERT** makes a diferent approach. We assume that the customer is always right. Instead of rearrange the whole keyboard layout, only 14 have been changed. These keys have been changed in pairs, one by another. In addition, those keys that have been switched vertically, and are clicked by the same finger as before. If you used to press the letter [E] with your middle finger of the left hand, it will remain so, but in a different row.
+**ASERT** takes a diferent approach. We assume the user is always right. Instead of re-arrange the whole keyboard layout, only 14 have been changed. These keys have been changed **in pairs**, one by another. In addition, those keys that have been **switched vertically**, and are clicked by the **same finger** as before. If you used to press the letter [E] with your middle finger of the left hand, it will remain so, but in a different row.
+
+This golden rules are the core idea of the ASERT layout. The first time you use it, is like met an old friend. You know exactly what happened every time you miss a key. In fact, if you are a trained typer, you'll probably will start typing ASERT flawlessly in matter of minutes.
 
 So, after some researching, and being inspired by Colemak and Workman layouts philosophy, I realized that with a minor changes QWERTY could be an actually great layout.
 
